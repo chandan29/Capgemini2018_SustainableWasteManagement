@@ -1,0 +1,16 @@
+{
+  "name": "SustainableWasteManagement_Server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.254.1",
+    "cors": "^2.8.4",
+    "ejs": "*",
+    "express": "^3.2.6",
+    "nodemon": "^1.17.5",
+    "uuid": "^3.2.1"
+  }
+}
